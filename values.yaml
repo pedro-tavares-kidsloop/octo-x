@@ -1,0 +1,5 @@
+guestbook:
+  enabled: true
+
+httpbingo:
+  enabled: true
