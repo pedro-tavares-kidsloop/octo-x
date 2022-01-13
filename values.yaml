@@ -2,4 +2,4 @@ guestbook:
   enabled: true
 
 httpbingo:
-  enabled: true
+  enabled: false
